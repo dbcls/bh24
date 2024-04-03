@@ -8,20 +8,18 @@ Accelerate data science through the integrated use of databases in life sciences
 
 Our focus on standardization and interoperability of life sciences and biomedical databases (knowledge graphs) remains unchanged. However, we further promote the integrated use of databases and literature, which will enable new discoveries through the development of methods and applications in data science.
 
-To achieve this goal, DBCLS restart the BioHackathon in a slightly modified manner, after the suspention of the BioHackathon series in Japan due to the COVID-19 pandemic. We introduce a new scheme to make the event more collaborative. See the [call for participation](/call) for more details.
+To achieve this goal, DBCLS restart the BioHackathon in a slightly modified manner in 2023, after the suspention of the BioHackathon series in Japan due to the COVID-19 pandemic. We introduced a new scheme to make the event more collaborative.
 
 ## Dates and venue
 
-- Dates: 25th June (Sun) - 1st July (Sat), 2023
+- Dates: 24th August (Sun) - 31st August (Sat), 2024
 - Venue:
-  - [Kagawa International Conference Hall](https://www.symboltower.com/en/) in Takamatsu, Kagawa, Japan
-  - [Olivean Shodoshima](https://olivean.com/en/) on Shodoshima island, Kagawa, Japan
+  - [YUMORI](https://yumori-hostel.jp/access/) in Fukushima, Japan
 
 ## Participation
 
-- [Call for participation](/call)
-- [Schedule](https://github.com/dbcls/bh23/wiki/Schedule)
-- [Projects](https://github.com/dbcls/bh23/wiki/Projects)
+- [Schedule](https://github.com/dbcls/bh24/wiki/Schedule)
+- [Projects](https://github.com/dbcls/bh24/wiki/Projects)
 
 <!--
 ## History of BioHackathon
