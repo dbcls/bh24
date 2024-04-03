@@ -1,4 +1,4 @@
-<img src="./images/bh23-logo.png" width="200">
+<img src="./images/bh-logo.png" width="200">
 
 # DBCLS BioHackathon 2024
 
