@@ -12,7 +12,7 @@ To achieve this goal, DBCLS restart the BioHackathon in a slightly modified mann
 
 ## Dates and venue
 
-- Dates: 24th August (Sun) - 31st August (Sat), 2024
+- Dates: 25th August (Sun) - 31st August (Sat), 2024
 - Venue:
   - [YUMORI](https://yumori-hostel.jp/en/access/) in Fukushima, Japan
 
