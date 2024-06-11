@@ -23,7 +23,7 @@ To make the BioHackathon event more collaborative for all participants within a 
 
 ## Important dates
 
-- June 10, 2024: Registration opens
+- June 12, 2024: Registration opens
 - July 26, 2024: Due date for payment (accommodation fees)
 
 Note: Registration may be restricted if the number of participants exceeds the capacity.
