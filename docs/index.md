@@ -18,12 +18,11 @@ To make the BioHackathon event more collaborative for all participants within a 
 ## Dates and venue
 
 - Dates: 25th August (Sun) - 31st August (Sat), 2024
-- Venue:
-  - [YUMORI](https://yumori-hostel.jp/en/access/) and [Sansuiso](https://www.sansuiso.jp/en/) in Fukushima, Japan
+- Venue: [YUMORI](https://yumori-hostel.jp/en/access/) and [Sansuiso](https://www.sansuiso.jp/en/) in Fukushima, Japan
 
 ## Important dates
 
-- June 12, 2024: Registration opens
+- June 12, 2024: Registration opens (please register at https://bit.ly/bh24-regist)
 - July 26, 2024: Due date for payment (accommodation fees)
 
 Note: Registration may be restricted if the number of participants exceeds the capacity.
