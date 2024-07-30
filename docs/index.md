@@ -22,14 +22,15 @@ To make the BioHackathon event more collaborative for all participants within a 
 
 ## Registration
 
-- Please register at [https://bit.ly/bh24-regist](https://bit.ly/bh24-regist)
+- <s>Please register at [https://bit.ly/bh24-regist](https://bit.ly/bh24-regist)</s> (Closed at July 26)
 
 ## Important dates
 
 - June 12, 2024: Registration opens
 - July 26, 2024: Due date for payment (accommodation fees)
+  - For international participants: Please wait as we will provide details on the payment methods in order. Also, please check that emails from @@primatours.co.jp are not being marked as spam.
 
-Note: Registration may be restricted if the number of participants exceeds the capacity.
+<!-- Note: Registration may be restricted if the number of participants exceeds the capacity.-->
 
 ## Information
 
