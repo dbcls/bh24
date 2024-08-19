@@ -1,4 +1,4 @@
-<img src="./images/bh-logo.png" width="200">
+<img src="./images/bh24-logo.png" width="200">
 
 # DBCLS BioHackathon 2024
 
@@ -37,6 +37,10 @@ To make the BioHackathon event more collaborative for all participants within a 
 - [Schedule](https://github.com/dbcls/bh24/wiki/Schedule)
 - [Projects](https://github.com/dbcls/bh24/wiki/Projects)
 - [Participants](https://github.com/dbcls/bh24/wiki/Participants)
+
+## Organizers
+
+- BioHackathon Management Organizaion (Unnei Dantai), Database Center for Life Science
 
 ## Links
 
