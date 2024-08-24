@@ -18,7 +18,7 @@ To make the BioHackathon event more collaborative for all participants within a 
 ## Dates and venue
 
 - Dates: 25th August (Sun) - 31st August (Sat), 2024
-- Workshop Venue:[Grandpark Hotel Excel Fukushima Ebisu](https://grandpark-ex.jp/fukushima/)in Fukushima, Japan
+- Workshop Venue:[Grandpark Hotel Excel Fukushima Ebisu](https://grandpark-ex.jp/fukushima/)　in Fukushima, Japan
 - Hackathon Venue:[YUMORI](https://yumori-hostel.jp/en/access/) and [Sansuiso](https://www.sansuiso.jp/en/) in Fukushima, Japan
 
 ## Registration
