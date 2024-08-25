@@ -39,6 +39,11 @@ To make the BioHackathon event more collaborative for all participants within a 
 - [Projects](https://github.com/dbcls/bh24/wiki/Projects)
 - [Participants](https://github.com/dbcls/bh24/wiki/Participants)
 
+## Slides
+
+- [Workshop](https://docs.google.com/presentation/d/1qmvOMOf3X_-XnbgyC-eU4-DDuX0NpzIjziMW300i5Z8/edit#slide=id.g281783b2445_0_0)
+- [Self-Introduction](https://docs.google.com/presentation/d/16XNAIh2MAXmaEXL7RXQvmtJyOFJ-UsQJkm_sRFWVhKg/edit#slide=id.p)
+
 ## Organizers
 
 - BioHackathon Management Organizaion (Unnei Dantai), Database Center for Life Science
