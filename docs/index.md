@@ -48,7 +48,7 @@ To make the BioHackathon event more collaborative for all participants within a 
 
 ## Organizers
 
-- BioHackathon Management Organizaion (Unnei Dantai), Database Center for Life Science
+- BioHackathon Management Organization (Unnei Dantai), Database Center for Life Science
 
 ## Links
 
