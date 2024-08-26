@@ -43,7 +43,7 @@ To make the BioHackathon event more collaborative for all participants within a 
 
 - [Workshop](https://docs.google.com/presentation/d/1qmvOMOf3X_-XnbgyC-eU4-DDuX0NpzIjziMW300i5Z8/edit#slide=id.g281783b2445_0_0)
 - [Self-Introduction](https://docs.google.com/presentation/d/16XNAIh2MAXmaEXL7RXQvmtJyOFJ-UsQJkm_sRFWVhKg/edit#slide=id.p)
-- [Information](https://docs.google.com/presentation/d/1lZrgR3hM8oIB40XdwPYRsZxbnbjcCWQ7zOmhK55FftU/edit#slide=id.p)
+- [Information & Introduction to the DBCLS resources](https://docs.google.com/presentation/d/1lZrgR3hM8oIB40XdwPYRsZxbnbjcCWQ7zOmhK55FftU/edit#slide=id.p)
 
 ## Organizers
 
