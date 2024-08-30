@@ -45,6 +45,7 @@ To make the BioHackathon event more collaborative for all participants within a 
 - [Self introduction](https://docs.google.com/presentation/d/16XNAIh2MAXmaEXL7RXQvmtJyOFJ-UsQJkm_sRFWVhKg/edit#slide=id.p)
 - [Information](https://docs.google.com/presentation/d/1lZrgR3hM8oIB40XdwPYRsZxbnbjcCWQ7zOmhK55FftU/edit#slide=id.p)
 - [Hacking groups](https://docs.google.com/presentation/d/1TECHApv2VCUsufgb8QuvXmo2hbBGiJOcJ3VhDN5Rcoc/edit#slide=id.g2f612fa77db_0_0)
+- [Wrap-up](https://docs.google.com/presentation/d/1pqOh8exDBGNL3LYSbw_qsplspQGQiSVUo_bKNsJArcc/edit#slide=id.g2f612fa77db_0_0_)
 
 ## Organizers
 
